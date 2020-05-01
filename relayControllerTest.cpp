@@ -1,5 +1,5 @@
 /*
- * adcTest.c
+ * relayControllerTest.cpp
  *
  *  Created on: Apr 25, 2020
  *      Author: serbay.ozkan

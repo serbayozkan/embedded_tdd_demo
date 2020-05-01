@@ -1,5 +1,5 @@
 /*
- * relayScheduler.c
+ * relayController.c
  *
  *  Created on: Apr 26, 2020
  *      Author: serbay.ozkan

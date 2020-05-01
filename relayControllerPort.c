@@ -1,5 +1,5 @@
 /*
- * relaySchedulerPort.c
+ * relayControllerPort.c
  *
  *  Created on: Apr 28, 2020
  *      Author: serbay.ozkan
